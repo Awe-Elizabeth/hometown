@@ -2,18 +2,24 @@ body{
     text-align: center;
     color: whitesmoke;
     margin: 0px;
-    border-radius: 10px;
-
+    border-radius: 20px;
+    border-left: 5px solid white;
+    border-right: 5px solid white;
+    border-bottom: 5px solid white;
 }
 
 .hero {
     background-image: url("./images/ekiti.jpeg");
     background-size: cover;
-    height: 200px;
+    height: 400px;
     padding: 50px;
     display: flex;
     flex-direction: column;
     align-items: center;
+    border-top: 5px solid white;
+    border-left: 5px solid white;
+    border-right: 5px solid white;
+    border-radius: 20px;
 
 }
 
@@ -35,7 +41,10 @@ h1 {
     margin: 0px;
     color: rgb(2, 56, 56);
     font-size: small;
-
+    border-left: 5px solid white;
+    border-right: 5px solid white;
+    border-radius: 20px;
+    height: 400px;
 }
 .tour {
     display: flex;
@@ -57,12 +66,12 @@ h4 {
     display: flex;
     width: 400px;
     height: 280px;
-    background: linear-gradient(rgb(63, 142, 160), rgb(235, 245, 247));
+    background: linear-gradient(rgb(13, 65, 65), rgb(235, 245, 247));
     align-items: center;
     padding: 10px 20px;
     border-bottom: 5px solid rgb(36, 83, 94) ;
     margin: 50px auto;
-    border-radius: 10px;
+    border-radius: 20px;
 }
 
 .liz-img {
