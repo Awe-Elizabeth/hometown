@@ -1,0 +1,78 @@
+body{
+    text-align: center;
+    color: whitesmoke;
+    margin: 0px;
+    border-radius: 10px;
+
+}
+
+.hero {
+    background-image: url("./images/ekiti.jpeg");
+    background-size: cover;
+    height: 200px;
+    padding: 50px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+}
+
+h1 {
+    background-color: rgb(19, 95, 95);
+    padding: 3px 12px;
+    margin-bottom: 0px;
+    border-radius: 3px;
+}
+
+#title {
+    background: rgb(13, 65, 65);
+    padding: 3px 6px;
+    border-radius: 3px;
+}
+
+#b-section{
+    background-color: rgb(235, 245, 247);
+    margin: 0px;
+    color: rgb(2, 56, 56);
+
+}
+.tour {
+    display: flex;
+    color: rgb(4, 87, 87);
+    padding: 10px;
+}
+
+.tour-img {
+    width: 150px;
+    border-radius: 50%;
+    height: 150px;
+}
+
+h4 {
+    color: rgb(2, 56, 56);
+}
+
+#c-section {
+    display: flex;
+    width: 400px;
+    height: 280px;
+    background: linear-gradient(rgb(63, 142, 160), rgb(235, 245, 247));
+    align-items: center;
+    padding: 10px 20px;
+    border-bottom: 5px solid rgb(36, 83, 94) ;
+    margin: 50px auto;
+    border-radius: 10px;
+}
+
+.liz-img {
+    width: 150px;
+    height: 200px;
+}
+
+#h-title {
+    margin-top: 0px;
+    padding: 20px;
+}
+
+
+
