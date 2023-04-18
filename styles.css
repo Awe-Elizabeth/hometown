@@ -34,6 +34,7 @@ h1 {
     background-color: rgb(235, 245, 247);
     margin: 0px;
     color: rgb(2, 56, 56);
+    font-size: small;
 
 }
 .tour {
@@ -72,6 +73,10 @@ h4 {
 #h-title {
     margin-top: 0px;
     padding: 20px;
+}
+
+.tourism {
+    padding: 5px 35px;
 }
 
 
